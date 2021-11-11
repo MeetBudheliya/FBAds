@@ -1,0 +1,6 @@
+framework module Pods_FBAds {
+  umbrella header "Pods-FBAds-umbrella.h"
+
+  export *
+  module * { export * }
+}
